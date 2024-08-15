@@ -1,0 +1,29 @@
+.container-form {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.form-h2 {
+  margin-bottom: 10px;
+}
+.input-form {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.button-form {
+  width: 100%;
+}
+.message-error-form {
+  font-size: 12px;
+  margin-top: 10px;
+  color: red;
+  font-weight: 500;
+}
+.modal-form {
+  margin-top: 20px;
+}

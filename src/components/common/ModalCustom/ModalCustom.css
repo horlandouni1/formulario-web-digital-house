@@ -1,0 +1,15 @@
+.container-modal {
+  width: 400px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 20px;
+}
+.animal-value-modal {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: chocolate;
+  color: aqua;
+}
